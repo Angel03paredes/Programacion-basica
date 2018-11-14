@@ -1,24 +1,24 @@
-#**Manual de usuario**
-##**UANL-FCFM**
+#Manual de usuario
+##UANL-FCFM
 ###Alumno: Jesus Angel Paredes Sauceda
 ### Matricula:1937860
 
 
-##**Requisitos:**
+##Requisitos:
 
 ###1.- Contar con un ordenador que tenga sistema Microsoft con versiones windows xp en adelante.
 
 ###2.-Tener instalado los drivers actualizados necesarios de su sistema operativo.
 
 
-##**Instalación:**
+##Instalación:
 
 ###1.-Sencillamente se debe pasar el archivo y abrir el programa ejecutable proyecto.exe.
 
 ![Programa](/imagenes/Captura1.png)
 
 
-##**Instrucciones:**
+##Instrucciones:
 
 ###1.-Al abrir el programa aparecerá la siguiente pantalla:
 
