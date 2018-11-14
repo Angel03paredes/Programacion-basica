@@ -1,35 +1,35 @@
-#Manual de usuario
+# Manual de usuario
 
-##UANL-FCFM
+## UANL-FCFM
 
-###Alumno: Jesus Angel Paredes Sauceda
+### Alumno: Jesus Angel Paredes Sauceda
 
 ### Matricula:1937860
 
 
-##Requisitos:
+## Requisitos:
 
-###1.- Contar con un ordenador que tenga sistema Microsoft con versiones windows xp en adelante.
+### 1.- Contar con un ordenador que tenga sistema Microsoft con versiones windows xp en adelante.
 
-###2.-Tener instalado los drivers actualizados necesarios de su sistema operativo.
-
-
-##Instalación:
-
-###1.-Sencillamente se debe pasar el archivo y abrir el programa ejecutable proyecto.exe.
-
-![Programa](/imagenes/Captura1.png)
+### 2.-Tener instalado los drivers actualizados necesarios de su sistema operativo.
 
 
-##Instrucciones:
+## Instalación:
 
-###1.-Al abrir el programa aparecerá la siguiente pantalla:
+### 1.-Sencillamente se debe pasar el archivo y abrir el programa ejecutable proyecto.exe.
 
-![Pantalla](/imagenes/Captura2.png)
+! [Programa](/imagenes/Captura1.png)
 
-###2.-Navega através del menú con las flechas arriba y abajo, y enter para seleccionar la opción.
 
-###3.-Para cada opción:
+## Instrucciones:
+
+### 1.-Al abrir el programa aparecerá la siguiente pantalla:
+
+! [Pantalla](/imagenes/Captura2.png)
+
+### 2.-Navega através del menú con las flechas arriba y abajo, y enter para seleccionar la opción.
+
+### 3.-Para cada opción:
 
 1. Alta de alumnos: Se insetarán los datos en cada campo del formulario del alumno a dar de alta.
 2. Alta de calificaciones: Se insertará las tres calificaciones  de los alumnos existentes.
