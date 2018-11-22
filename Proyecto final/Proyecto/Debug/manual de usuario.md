@@ -18,22 +18,22 @@
 
 ### 1.-Sencillamente se debe pasar el archivo y abrir el programa ejecutable proyecto.exe.
 
-! [Programa](/imagenes/Captura1.png)
+! [Programa](Proyecto/Debug/imagenes/Captura1.png)
 
 
 ## Instrucciones:
 
 ### 1.-Al abrir el programa aparecerá la siguiente pantalla:
 
-! [Pantalla](/imagenes/Captura2.png)
+! [Pantalla](Proyecto/Debug//imagenes/Captura2.png)
 
 ### 2.-Navega através del menú con las flechas arriba y abajo, y enter para seleccionar la opción.
 
 ### 3.-Para cada opción:
 
-1. Alta de alumnos: Se insetarán los datos en cada campo del formulario del alumno a dar de alta.
-2. Alta de calificaciones: Se insertará las tres calificaciones  de los alumnos existentes.
-3. Edición de alumnos: Si se desea editar algún dato se introducirá  la matricula y se seleccionará  el dato a cambiar.
-4. Borrar alumno: Eliminar los datos de algún alumno.
-5. Lista de alumnos: Se ilustrarán los alumnos  existentes y sus calificaciones a promediar.
-6. Se guardan los cambios y se cierra el programa. 
+###1. Alta de alumnos: Se insetarán los datos en cada campo del formulario del alumno a dar de alta.
+###2. Alta de calificaciones: Se insertará las tres calificaciones  de los alumnos existentes.
+###3. Edición de alumnos: Si se desea editar algún dato se introducirá  la matricula y se seleccionará  el dato a cambiar.
+###4. Borrar alumno: Eliminar los datos de algún alumno.
+###5. Lista de alumnos: Se ilustrarán los alumnos  existentes y sus calificaciones a promediar.
+###6. Se guardan los cambios y se cierra el programa. 
