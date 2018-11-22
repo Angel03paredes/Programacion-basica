@@ -18,14 +18,14 @@
 
 ### 1.-Sencillamente se debe pasar el archivo y abrir el programa ejecutable proyecto.exe.
 
-! [Programa](Proyecto final/Proyecto/Debug/imagenes/Captura1.png)
+! [Programa](Proyecto/Debug/imagenes/Captura1.PNG)
 
 
 ## Instrucciones:
 
 ### 1.-Al abrir el programa aparecerá la siguiente pantalla:
 
-! [Pantalla](Proyecto final/Proyecto/Debug//imagenes/Captura2.png)
+! [Pantalla](Proyecto/Debug//imagenes/Captura2.PNG)
 
 ### 2.-Navega através del menú con las flechas arriba y abajo, y enter para seleccionar la opción.
 
